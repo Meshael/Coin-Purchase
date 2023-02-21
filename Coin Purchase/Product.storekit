@@ -1,0 +1,118 @@
+{
+  "identifier" : "DBB35775",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "954C297D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "20 Coins",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "٢٠ عملة",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "Coins_20",
+      "referenceName" : "20 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "74FFDFDB",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "40 Coins",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "٤٠ عملة",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "Coins_40",
+      "referenceName" : "40 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "7.59",
+      "familyShareable" : false,
+      "internalID" : "03854082",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "60 Coins",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "٦٠ عملة",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "Coins_60",
+      "referenceName" : "60 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "770DFED8",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "80 Coins",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "٨٠ عملة",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "Coins_80",
+      "referenceName" : "80 Coins",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "12.59",
+      "familyShareable" : false,
+      "internalID" : "4DC7B266",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "100 Coins",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "١٠٠ عملة",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "Coins_100",
+      "referenceName" : "100 Coins",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
