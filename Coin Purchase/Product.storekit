@@ -13,11 +13,6 @@
           "description" : "",
           "displayName" : "20 Coins",
           "locale" : "en_US"
-        },
-        {
-          "description" : "",
-          "displayName" : "٢٠ عملة",
-          "locale" : "ar"
         }
       ],
       "productID" : "Coins_20",
@@ -33,11 +28,6 @@
           "description" : "",
           "displayName" : "40 Coins",
           "locale" : "en_US"
-        },
-        {
-          "description" : "",
-          "displayName" : "٤٠ عملة",
-          "locale" : "ar"
         }
       ],
       "productID" : "Coins_40",
@@ -53,11 +43,6 @@
           "description" : "",
           "displayName" : "60 Coins",
           "locale" : "en_US"
-        },
-        {
-          "description" : "",
-          "displayName" : "٦٠ عملة",
-          "locale" : "ar"
         }
       ],
       "productID" : "Coins_60",
@@ -73,11 +58,6 @@
           "description" : "",
           "displayName" : "80 Coins",
           "locale" : "en_US"
-        },
-        {
-          "description" : "",
-          "displayName" : "٨٠ عملة",
-          "locale" : "ar"
         }
       ],
       "productID" : "Coins_80",
@@ -93,11 +73,6 @@
           "description" : "",
           "displayName" : "100 Coins",
           "locale" : "en_US"
-        },
-        {
-          "description" : "",
-          "displayName" : "١٠٠ عملة",
-          "locale" : "ar"
         }
       ],
       "productID" : "Coins_100",

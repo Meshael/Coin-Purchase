@@ -58,11 +58,11 @@ struct ContentView: View {
                             }
                         })
                         {
-                                                        CourseItem(storeKit: storeKit, product: product)
-                                                            .frame(width: 80, height: 40)
-                                                            .foregroundColor(.white)
-                                                            .background(Color("BabyGreen"))
-                                                            .cornerRadius(15)
+                         CourseItem(storeKit: storeKit, product: product)
+                         .frame(width: 80, height: 40)
+                         .foregroundColor(.white)
+                         .background(Color("BabyGreen"))
+                         .cornerRadius(15)
 
                             }
                         }
